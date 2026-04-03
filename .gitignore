@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+dist/
+*.egg-info/
+
+# Local journal data — not part of the tool itself
+journals/
+
+.claude
